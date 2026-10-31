@@ -74,5 +74,5 @@ app and remove the project's `chroma_db` directory before restarting.
   availability; initialization details are logged in the terminal.
 - **No extracted text:** This POC does not OCR scanned/image-only PDFs.
 - **PowerShell activation blocked:** Use
-  ` .\.venv\Scripts\python.exe -m pip install -r requirements.txt` and
-  ` .\.venv\Scripts\python.exe app.py` without changing the execution policy.
+  `\.venv\Scripts\python.exe -m pip install -r requirements.txt` and
+  `\.venv\Scripts\python.exe app.py` without changing the execution policy.
